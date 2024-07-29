@@ -5,4 +5,4 @@ This repository contains 110 labeled Raspberry Pi images. The labeled content is
 
 epoch=50
 
-![Raspberry Pi PCB](https://github.com/RedAmancy918/repository/YOLOv5-Visual_Fusion/images/val_batch0_pred.jpg)
+![Raspberry Pi PCB](https://github.com/RedAmancy918/YOLOv5-Visual_Fusion/raw/main/images/val_batch0_pred.jpg)
