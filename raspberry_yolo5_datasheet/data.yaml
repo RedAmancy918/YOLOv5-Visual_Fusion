@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 8
+names: ['CPU', 'Ethernet', 'GPIO', 'HDMI', 'RAM', 'RAM-3', 'Raspberry', 'micro-hdmi']
+
+roboflow:
+  workspace: jiahao-yang
+  project: raspberry-component-detect
+  version: 1
+  license: Private
+  url: https://app.roboflow.com/jiahao-yang/raspberry-component-detect/1
